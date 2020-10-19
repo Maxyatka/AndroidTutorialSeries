@@ -1,6 +1,6 @@
-#Android Tutorial Series
+# Android Tutorial Series
 
-#####This series consists of three tutorials.<br>
+##### This series consists of three tutorials.<br>
 
 Source folders correspond to each tutroial name.<br>
 Find tutorials at the following links:
